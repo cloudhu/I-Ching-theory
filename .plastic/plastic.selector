@@ -1,0 +1,4 @@
+repository "I Ching theory@ssl://cloud1989@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/604746493" 
+     
